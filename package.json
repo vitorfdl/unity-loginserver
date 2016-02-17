@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "A server for Unity game",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.5.0",
+    "mongodb": "^2.1.7",
+    "validator": "^4.8.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Lima",
+  "license": "ISC"
+}
